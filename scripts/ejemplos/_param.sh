@@ -1,0 +1,1 @@
+echo "Número de parámetros: $#"
